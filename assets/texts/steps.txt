@@ -1,0 +1,4 @@
+g++ -c Game.cpp -I"Path to the include folder in SFML"
+
+
+g++ Game.o -o sfml-app -L"Path to the lib folder in SFML" -lsfml-graphics -lsfml-window -lsfml-system -lsfml-audio -lsfml-network
