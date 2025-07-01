@@ -103,6 +103,7 @@ The project is organized into the following structure to ensure a clean and modu
  
  ### Method
  1. - Clone the repository in your computer.
+    - Unzip the SFML folder. (you can clone a repository, you know how to unzip a file in you folder)
     - Go to Makefile
     - Change the paths in Makefile as specified
     ```bash
